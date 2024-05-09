@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**kaparecida/kaparecida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Karoline
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Aprendendo a linguagem JavaScript
+- Utilizo esse espaço para minha organização dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo📬📧
+
+KarolineAparecida08@hotmail.com
+
+
+
+![](https://media1.tenor.com/m/t0oy0re4OGQAAAAC/hello-bear.gif)
